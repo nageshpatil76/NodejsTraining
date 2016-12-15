@@ -1,0 +1,19 @@
+{
+  "name": "nodeproject",
+  "version": "2.5.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node passwordManager.js"
+  },
+  "author": "Nagesh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "crypto-js": "^3.1.5",
+    "express": "^4.14.0",
+    "node-persist": "0.0.6",
+    "request": "^2.60.0",
+    "yargs": "^3.15.0"
+  }
+}
